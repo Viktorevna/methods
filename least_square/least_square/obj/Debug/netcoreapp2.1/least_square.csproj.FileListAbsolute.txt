@@ -1,0 +1,11 @@
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/bin/Debug/netcoreapp2.1/least_square.deps.json
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/bin/Debug/netcoreapp2.1/least_square.runtimeconfig.json
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/bin/Debug/netcoreapp2.1/least_square.runtimeconfig.dev.json
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/bin/Debug/netcoreapp2.1/least_square.dll
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/bin/Debug/netcoreapp2.1/least_square.pdb
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/obj/Debug/netcoreapp2.1/least_square.csprojAssemblyReference.cache
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/obj/Debug/netcoreapp2.1/least_square.csproj.CoreCompileInputs.cache
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/obj/Debug/netcoreapp2.1/least_square.AssemblyInfoInputs.cache
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/obj/Debug/netcoreapp2.1/least_square.AssemblyInfo.cs
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/obj/Debug/netcoreapp2.1/least_square.dll
+/Users/ankalinina/Documents/my folder/university/methods/least_square/least_square/obj/Debug/netcoreapp2.1/least_square.pdb

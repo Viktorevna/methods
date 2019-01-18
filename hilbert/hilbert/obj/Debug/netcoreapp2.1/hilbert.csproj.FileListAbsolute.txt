@@ -1,0 +1,22 @@
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.csprojAssemblyReference.cache
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.csproj.CoreCompileInputs.cache
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.AssemblyInfoInputs.cache
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.AssemblyInfo.cs
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.deps.json
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.runtimeconfig.json
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.runtimeconfig.dev.json
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.dll
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.pdb
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.dll
+/Users/ankalinina/Desktop/folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.pdb
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.deps.json
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.runtimeconfig.json
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.runtimeconfig.dev.json
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.dll
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/bin/Debug/netcoreapp2.1/hilbert.pdb
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.csprojAssemblyReference.cache
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.csproj.CoreCompileInputs.cache
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.AssemblyInfoInputs.cache
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.AssemblyInfo.cs
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.dll
+/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/obj/Debug/netcoreapp2.1/hilbert.pdb

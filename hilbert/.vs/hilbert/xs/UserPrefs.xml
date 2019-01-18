@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{39B8DDB7-5F28-4F16-A11D-4C9592FD66B7}|Default">
+  <MonoDevelop.Ide.ItemProperties.hilbert PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hilbert/Program.cs">
+    <Files>
+      <File FileName="hilbert/Program.cs" Line="32" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
