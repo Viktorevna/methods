@@ -1,0 +1,21 @@
+/Users/ankalinina/Downloads/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.exe.config
+/Users/ankalinina/Downloads/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.exe
+/Users/ankalinina/Downloads/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.pdb
+/Users/ankalinina/Downloads/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.csprojAssemblyReference.cache
+/Users/ankalinina/Downloads/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.csproj.CoreCompileInputs.cache
+/Users/ankalinina/Downloads/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.exe
+/Users/ankalinina/Downloads/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.pdb
+/Users/ankalinina/Documents/folder/university/methods/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.exe.config
+/Users/ankalinina/Documents/folder/university/methods/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.exe
+/Users/ankalinina/Documents/folder/university/methods/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.pdb
+/Users/ankalinina/Documents/folder/university/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.csprojAssemblyReference.cache
+/Users/ankalinina/Documents/folder/university/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.csproj.CoreCompileInputs.cache
+/Users/ankalinina/Documents/folder/university/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.exe
+/Users/ankalinina/Documents/folder/university/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.pdb
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.exe.config
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.exe
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/NewtonCotesMethod/NewtonCotesMethod/bin/Debug/NewtonCotesMethod.pdb
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.csprojAssemblyReference.cache
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.csproj.CoreCompileInputs.cache
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.exe
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/NewtonCotesMethod/NewtonCotesMethod/obj/Debug/NewtonCotesMethod.pdb

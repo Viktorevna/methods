@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "least_square_method", "least_square_method.csproj", "{CA8EDC34-E132-4A72-8F37-A3F8F1E7FB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA8EDC34-E132-4A72-8F37-A3F8F1E7FB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8EDC34-E132-4A72-8F37-A3F8F1E7FB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8EDC34-E132-4A72-8F37-A3F8F1E7FB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8EDC34-E132-4A72-8F37-A3F8F1E7FB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

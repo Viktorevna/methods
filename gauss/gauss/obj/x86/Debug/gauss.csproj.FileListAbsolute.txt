@@ -1,0 +1,2 @@
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/gauss/gauss/obj/x86/Debug/gauss.csprojAssemblyReference.cache
+/Users/ankalinina/Documents/folder/university/Численные методы/methods/gauss/gauss/obj/x86/Debug/gauss.csproj.CoreCompileInputs.cache

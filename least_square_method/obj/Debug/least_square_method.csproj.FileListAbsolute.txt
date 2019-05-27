@@ -1,0 +1,7 @@
+/Users/ankalinina/Documents/folder/university/methods/least_square_method/bin/Debug/least_square_method.exe.config
+/Users/ankalinina/Documents/folder/university/methods/least_square_method/bin/Debug/least_square_method.exe
+/Users/ankalinina/Documents/folder/university/methods/least_square_method/bin/Debug/least_square_method.pdb
+/Users/ankalinina/Documents/folder/university/methods/least_square_method/obj/Debug/least_square_method.csprojAssemblyReference.cache
+/Users/ankalinina/Documents/folder/university/methods/least_square_method/obj/Debug/least_square_method.csproj.CoreCompileInputs.cache
+/Users/ankalinina/Documents/folder/university/methods/least_square_method/obj/Debug/least_square_method.exe
+/Users/ankalinina/Documents/folder/university/methods/least_square_method/obj/Debug/least_square_method.pdb

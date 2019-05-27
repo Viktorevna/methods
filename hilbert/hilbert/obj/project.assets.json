@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/hilbert.csproj",
+      "projectUniqueName": "/Users/ankalinina/Documents/folder/university/methods/hilbert/hilbert/hilbert.csproj",
       "projectName": "hilbert",
-      "projectPath": "/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/hilbert.csproj",
+      "projectPath": "/Users/ankalinina/Documents/folder/university/methods/hilbert/hilbert/hilbert.csproj",
       "packagesPath": "/Users/ankalinina/.nuget/packages/",
-      "outputPath": "/Users/ankalinina/Documents/my folder/university/methods/hilbert/hilbert/obj",
+      "outputPath": "/Users/ankalinina/Documents/folder/university/methods/hilbert/hilbert/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
